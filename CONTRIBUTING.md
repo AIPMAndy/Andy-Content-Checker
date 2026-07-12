@@ -8,7 +8,7 @@ Thank you for your interest in contributing! 🎉
 
 If you find a bug, false positive, or have a feature request:
 
-1. Check if the issue already exists in [Issues](https://github.com/AIPMAndy/content-compliance-checker/issues)
+1. Check if the issue already exists in [Issues](https://github.com/AIPMAndy/Andy-Content-Checker/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce (for bugs)

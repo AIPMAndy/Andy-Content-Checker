@@ -1,10 +1,10 @@
 {
-  "name": "content-compliance-checker",
+  "name": "andy-content-checker",
   "version": "1.0.0",
   "description": "A professional content moderation tool for Chinese social media platforms (Xiaohongshu, Douyin, WeChat)",
   "main": "skill.js",
   "bin": {
-    "content-compliance": "./skill.js"
+    "andy-content-checker": "./skill.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,18 +18,19 @@
     "china",
     "social-media",
     "claude-skill",
-    "ai-tool"
+    "ai-tool",
+    "andy"
   ],
   "author": "Andy <mike66888@2925.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AIPMAndy/content-compliance-checker.git"
+    "url": "git+https://github.com/AIPMAndy/Andy-Content-Checker.git"
   },
   "bugs": {
-    "url": "https://github.com/AIPMAndy/content-compliance-checker/issues"
+    "url": "https://github.com/AIPMAndy/Andy-Content-Checker/issues"
   },
-  "homepage": "https://github.com/AIPMAndy/content-compliance-checker#readme",
+  "homepage": "https://github.com/AIPMAndy/Andy-Content-Checker#readme",
   "engines": {
     "node": ">=14.0.0"
   }

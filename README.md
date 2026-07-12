@@ -37,10 +37,10 @@ Content Compliance Checker 是一个专业的内容合规审核工具，帮助�
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/AIPMAndy/content-compliance-checker.git
+git clone https://github.com/AIPMAndy/Andy-Content-Checker.git
 
 # 2. 复制到 Claude skills 目录
-cp -r content-compliance-checker ~/.claude/skills/content-compliance
+cp -r Andy-Content-Checker ~/.claude/skills/content-compliance
 
 # 3. 赋予执行权限
 chmod +x ~/.claude/skills/content-compliance/skill.js
@@ -50,8 +50,8 @@ chmod +x ~/.claude/skills/content-compliance/skill.js
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/AIPMAndy/content-compliance-checker.git
-cd content-compliance-checker
+git clone https://github.com/AIPMAndy/Andy-Content-Checker.git
+cd Andy-Content-Checker
 
 # 2. 直接运行
 node skill.js xiaohongshu "你的内容"
@@ -158,7 +158,7 @@ node skill.js all "检查所有平台规则"
 ### 🏗️ 项目结构
 
 ```
-content-compliance-checker/
+Andy-Content-Checker/
 ├── skill.js                    # 核心逻辑：关键词匹配和初步检查
 ├── skill.prompt                # LLM 提示词：深度语义分析
 ├── skill.md                    # 技能文档和使用说明
@@ -255,10 +255,10 @@ Supported Platforms:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AIPMAndy/content-compliance-checker.git
+git clone https://github.com/AIPMAndy/Andy-Content-Checker.git
 
 # 2. Copy to Claude skills directory
-cp -r content-compliance-checker ~/.claude/skills/content-compliance
+cp -r Andy-Content-Checker ~/.claude/skills/content-compliance
 
 # 3. Grant execution permission
 chmod +x ~/.claude/skills/content-compliance/skill.js
@@ -268,8 +268,8 @@ chmod +x ~/.claude/skills/content-compliance/skill.js
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AIPMAndy/content-compliance-checker.git
-cd content-compliance-checker
+git clone https://github.com/AIPMAndy/Andy-Content-Checker.git
+cd Andy-Content-Checker
 
 # 2. Run directly
 node skill.js xiaohongshu "your content"
@@ -308,7 +308,7 @@ node skill.js all "check all platform rules"
 ### 🏗️ Project Structure
 
 ```
-content-compliance-checker/
+Andy-Content-Checker/
 ├── skill.js                    # Core logic: keyword matching
 ├── skill.prompt                # LLM prompt: semantic analysis
 ├── skill.md                    # Documentation
