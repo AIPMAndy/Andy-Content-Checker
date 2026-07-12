@@ -1,0 +1,36 @@
+{
+  "name": "content-compliance-checker",
+  "version": "1.0.0",
+  "description": "A professional content moderation tool for Chinese social media platforms (Xiaohongshu, Douyin, WeChat)",
+  "main": "skill.js",
+  "bin": {
+    "content-compliance": "./skill.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "content-moderation",
+    "compliance",
+    "xiaohongshu",
+    "douyin",
+    "wechat",
+    "china",
+    "social-media",
+    "claude-skill",
+    "ai-tool"
+  ],
+  "author": "Andy <mike66888@2925.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AIPMAndy/content-compliance-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AIPMAndy/content-compliance-checker/issues"
+  },
+  "homepage": "https://github.com/AIPMAndy/content-compliance-checker#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
